@@ -19,5 +19,4 @@ O objetivo deste repositório é consolidar meu conhecimento em Golang, exploran
 
 ---
 
-## Estrutura do Repositório
 
